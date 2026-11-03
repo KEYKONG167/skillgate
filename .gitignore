@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.venv/
+build/
+dist/
+
+# skillgate state (versions, caches, ledgers) and exported champions
+.skillgate/
+.skillgate-sealed/
+examples/*/deployed/

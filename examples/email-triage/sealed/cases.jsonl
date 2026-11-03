@@ -1,0 +1,240 @@
+{"id": "s-000", "text": "Hi team, I have a question about the sign in. Please advise.", "expected": "account"}
+{"id": "s-001", "text": "Hey there, Quick note: won't load since yesterday. Please help.", "expected": "bug"}
+{"id": "s-002", "text": "Good morning, Writing about receipt. Thanks a lot.", "expected": "billing"}
+{"id": "s-003", "text": "Hey there, I have a question about the feature idea. Thanks a lot.", "expected": "other"}
+{"id": "s-004", "text": "Hey there, Writing about great product. Please get back to me soon.", "expected": "other"}
+{"id": "s-005", "text": "Hello, Quick note: refund since yesterday. Please help.", "expected": "billing"}
+{"id": "s-006", "text": "Hey there, Quick note: refund since yesterday. Please get back to me soon.", "expected": "billing"}
+{"id": "s-007", "text": "Hello, Writing about button is broken. Cheers.", "expected": "bug"}
+{"id": "s-008", "text": "Hey there, Could you look into the button is broken? Please advise.", "expected": "bug"}
+{"id": "s-009", "text": "Good morning, Quick note: great product since yesterday. Thanks a lot.", "expected": "other"}
+{"id": "s-010", "text": "Hey there, Writing about great product. Thanks a lot.", "expected": "other"}
+{"id": "s-011", "text": "Good morning, Quick note: partnership since yesterday. Cheers.", "expected": "other"}
+{"id": "s-012", "text": "Hey there, Writing about charged twice. Thanks a lot.", "expected": "billing"}
+{"id": "s-013", "text": "Hey there, Quick note: great product since yesterday. Please get back to me soon.", "expected": "other"}
+{"id": "s-014", "text": "Hi team, Could you look into the error message? Please advise.", "expected": "bug"}
+{"id": "s-015", "text": "Hi team, I have a question about the sign in. Please get back to me soon.", "expected": "account"}
+{"id": "s-016", "text": "Hi team, Quick note: charged twice since yesterday. Please advise.", "expected": "billing"}
+{"id": "s-017", "text": "Hi team, Writing about invoice. Please help.", "expected": "billing"}
+{"id": "s-018", "text": "Hey there, Quick note: app crashes since yesterday. Cheers.", "expected": "bug"}
+{"id": "s-019", "text": "Hi team, I have a question about the reset my password. Please help.", "expected": "account"}
+{"id": "s-020", "text": "Hi team, Could you look into the sign in? Please advise.", "expected": "account"}
+{"id": "s-021", "text": "Hello, I have a question about the payment failed. Please get back to me soon.", "expected": "billing"}
+{"id": "s-022", "text": "Hello, Quick note: reset my password since yesterday. Please help.", "expected": "account"}
+{"id": "s-023", "text": "Hi team, Could you look into the page freezes? Thank you!", "expected": "bug"}
+{"id": "s-024", "text": "Hey there, Writing about two-factor code. Please get back to me soon.", "expected": "account"}
+{"id": "s-025", "text": "Hey there, Writing about two-factor code. Cheers.", "expected": "account"}
+{"id": "s-026", "text": "Good morning, Quick note: invoice since yesterday. Cheers.", "expected": "billing"}
+{"id": "s-027", "text": "Hi team, I have a question about the button is broken. Please advise.", "expected": "bug"}
+{"id": "s-028", "text": "Good morning, Could you look into the pricing for teams? Thanks a lot.", "expected": "other"}
+{"id": "s-029", "text": "Hey there, Writing about error message. Cheers.", "expected": "bug"}
+{"id": "s-030", "text": "Hi team, Could you look into the invoice? Please advise.", "expected": "billing"}
+{"id": "s-031", "text": "Hello, I have a question about the payment failed. Cheers.", "expected": "billing"}
+{"id": "s-032", "text": "Hi team, Quick note: refund since yesterday. Cheers.", "expected": "billing"}
+{"id": "s-033", "text": "Hi team, Could you look into the feature idea? Please get back to me soon.", "expected": "other"}
+{"id": "s-034", "text": "Hey there, Could you look into the payment failed? Thanks a lot.", "expected": "billing"}
+{"id": "s-035", "text": "Hello, I have a question about the change my username. Thank you!", "expected": "account"}
+{"id": "s-036", "text": "Hi team, I have a question about the refund. Please help.", "expected": "billing"}
+{"id": "s-037", "text": "Hi team, Quick note: can't log in since yesterday. Please help.", "expected": "account"}
+{"id": "s-038", "text": "Hi team, Writing about payment failed. Thanks a lot.", "expected": "billing"}
+{"id": "s-039", "text": "Hello, Quick note: great product since yesterday. Thank you!", "expected": "other"}
+{"id": "s-040", "text": "Hi team, Writing about two-factor code. Please get back to me soon.", "expected": "account"}
+{"id": "s-041", "text": "Hi team, Writing about charged twice. Please help.", "expected": "billing"}
+{"id": "s-042", "text": "Hey there, Could you look into the sign in? Thanks a lot.", "expected": "account"}
+{"id": "s-043", "text": "Good morning, I have a question about the reset my password. Thanks a lot.", "expected": "account"}
+{"id": "s-044", "text": "Hi team, Writing about invoice. Thank you!", "expected": "billing"}
+{"id": "s-045", "text": "Good morning, Quick note: office hours since yesterday. Please get back to me soon.", "expected": "other"}
+{"id": "s-046", "text": "Hi team, Could you look into the reset my password? Thanks a lot.", "expected": "account"}
+{"id": "s-047", "text": "Hi team, Quick note: button is broken since yesterday. Please advise.", "expected": "bug"}
+{"id": "s-048", "text": "Hey there, Writing about change my username. Please advise.", "expected": "account"}
+{"id": "s-049", "text": "Good morning, I have a question about the page freezes. Please help.", "expected": "bug"}
+{"id": "s-050", "text": "Hi team, Could you look into the change my username? Please advise.", "expected": "account"}
+{"id": "s-051", "text": "Hi team, Writing about reset my password. Cheers.", "expected": "account"}
+{"id": "s-052", "text": "Hey there, Could you look into the great product? Please advise.", "expected": "other"}
+{"id": "s-053", "text": "Hey there, Writing about won't load. Thank you!", "expected": "bug"}
+{"id": "s-054", "text": "Good morning, Could you look into the great product? Please advise.", "expected": "other"}
+{"id": "s-055", "text": "Good morning, Could you look into the receipt? Thank you!", "expected": "billing"}
+{"id": "s-056", "text": "Hi team, I have a question about the sign in. Please advise.", "expected": "account"}
+{"id": "s-057", "text": "Good morning, I have a question about the invoice. Cheers.", "expected": "billing"}
+{"id": "s-058", "text": "Hello, Could you look into the change my username? Please advise.", "expected": "account"}
+{"id": "s-059", "text": "Good morning, Quick note: won't load since yesterday. Thanks a lot.", "expected": "bug"}
+{"id": "s-060", "text": "Hello, Writing about reset my password. Thanks a lot.", "expected": "account"}
+{"id": "s-061", "text": "Hey there, Quick note: refund since yesterday. Thank you!", "expected": "billing"}
+{"id": "s-062", "text": "Good morning, Could you look into the receipt? Cheers.", "expected": "billing"}
+{"id": "s-063", "text": "Good morning, Writing about invoice. Please get back to me soon.", "expected": "billing"}
+{"id": "s-064", "text": "Hello, Writing about office hours. Please help.", "expected": "other"}
+{"id": "s-065", "text": "Hey there, Writing about partnership. Cheers.", "expected": "other"}
+{"id": "s-066", "text": "Good morning, Could you look into the office hours? Thanks a lot.", "expected": "other"}
+{"id": "s-067", "text": "Hello, Quick note: change my username since yesterday. Cheers.", "expected": "account"}
+{"id": "s-068", "text": "Hi team, Could you look into the great product? Please get back to me soon.", "expected": "other"}
+{"id": "s-069", "text": "Hello, I have a question about the feature idea. Thank you!", "expected": "other"}
+{"id": "s-070", "text": "Good morning, Quick note: invoice since yesterday. Thank you!", "expected": "billing"}
+{"id": "s-071", "text": "Hey there, Quick note: payment failed since yesterday. Please get back to me soon.", "expected": "billing"}
+{"id": "s-072", "text": "Hi team, Writing about payment failed. Thanks a lot.", "expected": "billing"}
+{"id": "s-073", "text": "Good morning, Quick note: invoice since yesterday. Thanks a lot.", "expected": "billing"}
+{"id": "s-074", "text": "Good morning, I have a question about the two-factor code. Thank you!", "expected": "account"}
+{"id": "s-075", "text": "Good morning, Could you look into the won't load? Thank you!", "expected": "bug"}
+{"id": "s-076", "text": "Hi team, Could you look into the can't log in? Thank you!", "expected": "account"}
+{"id": "s-077", "text": "Hello, I have a question about the app crashes. Thank you!", "expected": "bug"}
+{"id": "s-078", "text": "Good morning, Could you look into the pricing for teams? Please help.", "expected": "other"}
+{"id": "s-079", "text": "Good morning, I have a question about the page freezes. Please help.", "expected": "bug"}
+{"id": "s-080", "text": "Good morning, Quick note: partnership since yesterday. Thank you!", "expected": "other"}
+{"id": "s-081", "text": "Good morning, Could you look into the invoice? Thanks a lot.", "expected": "billing"}
+{"id": "s-082", "text": "Hey there, Could you look into the page freezes? Cheers.", "expected": "bug"}
+{"id": "s-083", "text": "Hi team, Quick note: great product since yesterday. Please get back to me soon.", "expected": "other"}
+{"id": "s-084", "text": "Hi team, Could you look into the invoice? Please advise.", "expected": "billing"}
+{"id": "s-085", "text": "Hello, Could you look into the feature idea? Please help.", "expected": "other"}
+{"id": "s-086", "text": "Good morning, Could you look into the can't log in? Thanks a lot.", "expected": "account"}
+{"id": "s-087", "text": "Hi team, Could you look into the button is broken? Thanks a lot.", "expected": "bug"}
+{"id": "s-088", "text": "Good morning, Writing about charged twice. Thank you!", "expected": "billing"}
+{"id": "s-089", "text": "Good morning, Quick note: charged twice since yesterday. Thanks a lot.", "expected": "billing"}
+{"id": "s-090", "text": "Hi team, Quick note: payment failed since yesterday. Please advise.", "expected": "billing"}
+{"id": "s-091", "text": "Hello, Could you look into the app crashes? Please advise.", "expected": "bug"}
+{"id": "s-092", "text": "Hey there, Writing about payment failed. Cheers.", "expected": "billing"}
+{"id": "s-093", "text": "Hey there, Could you look into the button is broken? Cheers.", "expected": "bug"}
+{"id": "s-094", "text": "Hi team, Could you look into the page freezes? Thank you!", "expected": "bug"}
+{"id": "s-095", "text": "Hello, Could you look into the partnership? Thank you!", "expected": "other"}
+{"id": "s-096", "text": "Hi team, Quick note: partnership since yesterday. Thank you!", "expected": "other"}
+{"id": "s-097", "text": "Hi team, I have a question about the charged twice. Please advise.", "expected": "billing"}
+{"id": "s-098", "text": "Hi team, Writing about error message. Please get back to me soon.", "expected": "bug"}
+{"id": "s-099", "text": "Hello, Writing about won't load. Thanks a lot.", "expected": "bug"}
+{"id": "s-100", "text": "Hello, Could you look into the partnership? Please advise.", "expected": "other"}
+{"id": "s-101", "text": "Hi team, Quick note: pricing for teams since yesterday. Thanks a lot.", "expected": "other"}
+{"id": "s-102", "text": "Hello, Writing about page freezes. Thanks a lot.", "expected": "bug"}
+{"id": "s-103", "text": "Hey there, Quick note: can't log in since yesterday. Cheers.", "expected": "account"}
+{"id": "s-104", "text": "Hi team, Could you look into the charged twice? Cheers.", "expected": "billing"}
+{"id": "s-105", "text": "Hello, Quick note: reset my password since yesterday. Thank you!", "expected": "account"}
+{"id": "s-106", "text": "Hey there, Quick note: partnership since yesterday. Please get back to me soon.", "expected": "other"}
+{"id": "s-107", "text": "Hey there, Writing about can't log in. Please help.", "expected": "account"}
+{"id": "s-108", "text": "Good morning, Writing about office hours. Thanks a lot.", "expected": "other"}
+{"id": "s-109", "text": "Good morning, Writing about change my username. Please advise.", "expected": "account"}
+{"id": "s-110", "text": "Good morning, Writing about feature idea. Please help.", "expected": "other"}
+{"id": "s-111", "text": "Hello, I have a question about the office hours. Please advise.", "expected": "other"}
+{"id": "s-112", "text": "Good morning, Could you look into the change my username? Cheers.", "expected": "account"}
+{"id": "s-113", "text": "Hey there, I have a question about the sign in. Please advise.", "expected": "account"}
+{"id": "s-114", "text": "Hi team, Quick note: payment failed since yesterday. Cheers.", "expected": "billing"}
+{"id": "s-115", "text": "Hey there, Writing about reset my password. Thank you!", "expected": "account"}
+{"id": "s-116", "text": "Hi team, Writing about refund. Please get back to me soon.", "expected": "billing"}
+{"id": "s-117", "text": "Hello, I have a question about the reset my password. Please advise.", "expected": "account"}
+{"id": "s-118", "text": "Hey there, Quick note: can't log in since yesterday. Thanks a lot.", "expected": "account"}
+{"id": "s-119", "text": "Hi team, Quick note: office hours since yesterday. Please help.", "expected": "other"}
+{"id": "s-120", "text": "Hi team, Writing about refund. Please help.", "expected": "billing"}
+{"id": "s-121", "text": "Good morning, Could you look into the receipt? Cheers.", "expected": "billing"}
+{"id": "s-122", "text": "Hello, I have a question about the pricing for teams. Cheers.", "expected": "other"}
+{"id": "s-123", "text": "Hello, Writing about refund. Thanks a lot.", "expected": "billing"}
+{"id": "s-124", "text": "Good morning, Quick note: button is broken since yesterday. Please advise.", "expected": "bug"}
+{"id": "s-125", "text": "Hey there, Could you look into the feature idea? Please get back to me soon.", "expected": "other"}
+{"id": "s-126", "text": "Good morning, Could you look into the sign in? Please get back to me soon.", "expected": "account"}
+{"id": "s-127", "text": "Hey there, Quick note: great product since yesterday. Cheers.", "expected": "other"}
+{"id": "s-128", "text": "Hi team, I have a question about the receipt. Please get back to me soon.", "expected": "billing"}
+{"id": "s-129", "text": "Hello, Quick note: payment failed since yesterday. Please get back to me soon.", "expected": "billing"}
+{"id": "s-130", "text": "Hello, I have a question about the sign in. Cheers.", "expected": "account"}
+{"id": "s-131", "text": "Hi team, Quick note: pricing for teams since yesterday. Please get back to me soon.", "expected": "other"}
+{"id": "s-132", "text": "Hi team, Quick note: error message since yesterday. Please advise.", "expected": "bug"}
+{"id": "s-133", "text": "Hi team, Writing about charged twice. Please advise.", "expected": "billing"}
+{"id": "s-134", "text": "Hey there, Could you look into the receipt? Please get back to me soon.", "expected": "billing"}
+{"id": "s-135", "text": "Good morning, Writing about reset my password. Thank you!", "expected": "account"}
+{"id": "s-136", "text": "Hi team, Could you look into the error message? Please advise.", "expected": "bug"}
+{"id": "s-137", "text": "Hey there, Could you look into the office hours? Cheers.", "expected": "other"}
+{"id": "s-138", "text": "Hello, Writing about pricing for teams. Cheers.", "expected": "other"}
+{"id": "s-139", "text": "Good morning, Writing about charged twice. Thank you!", "expected": "billing"}
+{"id": "s-140", "text": "Hey there, Quick note: office hours since yesterday. Thank you!", "expected": "other"}
+{"id": "s-141", "text": "Hello, Writing about office hours. Thanks a lot.", "expected": "other"}
+{"id": "s-142", "text": "Hi team, Quick note: page freezes since yesterday. Please get back to me soon.", "expected": "bug"}
+{"id": "s-143", "text": "Hello, Quick note: partnership since yesterday. Please advise.", "expected": "other"}
+{"id": "s-144", "text": "Hi team, I have a question about the error message. Please advise.", "expected": "bug"}
+{"id": "s-145", "text": "Hi team, Could you look into the won't load? Thanks a lot.", "expected": "bug"}
+{"id": "s-146", "text": "Good morning, I have a question about the button is broken. Thank you!", "expected": "bug"}
+{"id": "s-147", "text": "Hey there, Quick note: can't log in since yesterday. Please advise.", "expected": "account"}
+{"id": "s-148", "text": "Good morning, I have a question about the receipt. Thank you!", "expected": "billing"}
+{"id": "s-149", "text": "Hi team, Writing about button is broken. Please advise.", "expected": "bug"}
+{"id": "s-150", "text": "Hey there, Quick note: refund since yesterday. Please get back to me soon.", "expected": "billing"}
+{"id": "s-151", "text": "Good morning, Writing about app crashes. Cheers.", "expected": "bug"}
+{"id": "s-152", "text": "Hi team, Could you look into the refund? Please advise.", "expected": "billing"}
+{"id": "s-153", "text": "Good morning, I have a question about the great product. Thank you!", "expected": "other"}
+{"id": "s-154", "text": "Good morning, Writing about partnership. Please advise.", "expected": "other"}
+{"id": "s-155", "text": "Hello, I have a question about the receipt. Please get back to me soon.", "expected": "billing"}
+{"id": "s-156", "text": "Hi team, I have a question about the change my username. Cheers.", "expected": "account"}
+{"id": "s-157", "text": "Good morning, Quick note: office hours since yesterday. Thanks a lot.", "expected": "other"}
+{"id": "s-158", "text": "Hey there, Could you look into the two-factor code? Thank you!", "expected": "account"}
+{"id": "s-159", "text": "Good morning, Quick note: sign in since yesterday. Please help.", "expected": "account"}
+{"id": "s-160", "text": "Good morning, I have a question about the can't log in. Cheers.", "expected": "account"}
+{"id": "s-161", "text": "Hello, Could you look into the refund? Please get back to me soon.", "expected": "billing"}
+{"id": "s-162", "text": "Hello, Could you look into the reset my password? Cheers.", "expected": "account"}
+{"id": "s-163", "text": "Hello, Writing about can't log in. Please help.", "expected": "account"}
+{"id": "s-164", "text": "Hey there, Writing about error message. Please get back to me soon.", "expected": "bug"}
+{"id": "s-165", "text": "Hey there, I have a question about the won't load. Thanks a lot.", "expected": "bug"}
+{"id": "s-166", "text": "Hey there, Could you look into the sign in? Thank you!", "expected": "account"}
+{"id": "s-167", "text": "Hello, I have a question about the error message. Thanks a lot.", "expected": "bug"}
+{"id": "s-168", "text": "Hi team, Could you look into the office hours? Cheers.", "expected": "other"}
+{"id": "s-169", "text": "Hi team, Writing about change my username. Thank you!", "expected": "account"}
+{"id": "s-170", "text": "Hello, Quick note: receipt since yesterday. Please help.", "expected": "billing"}
+{"id": "s-171", "text": "Hey there, Quick note: sign in since yesterday. Please help.", "expected": "account"}
+{"id": "s-172", "text": "Hello, Quick note: change my username since yesterday. Please help.", "expected": "account"}
+{"id": "s-173", "text": "Hi team, I have a question about the app crashes. Please advise.", "expected": "bug"}
+{"id": "s-174", "text": "Hi team, I have a question about the payment failed. Please help.", "expected": "billing"}
+{"id": "s-175", "text": "Hello, I have a question about the won't load. Please get back to me soon.", "expected": "bug"}
+{"id": "s-176", "text": "Good morning, Quick note: pricing for teams since yesterday. Thank you!", "expected": "other"}
+{"id": "s-177", "text": "Good morning, Could you look into the invoice? Please get back to me soon.", "expected": "billing"}
+{"id": "s-178", "text": "Good morning, Writing about receipt. Cheers.", "expected": "billing"}
+{"id": "s-179", "text": "Hello, Writing about office hours. Please advise.", "expected": "other"}
+{"id": "s-180", "text": "Hello, I have a question about the page freezes. Cheers.", "expected": "bug"}
+{"id": "s-181", "text": "Hello, Writing about receipt. Cheers.", "expected": "billing"}
+{"id": "s-182", "text": "Good morning, Writing about button is broken. Please advise.", "expected": "bug"}
+{"id": "s-183", "text": "Good morning, Could you look into the pricing for teams? Thanks a lot.", "expected": "other"}
+{"id": "s-184", "text": "Good morning, I have a question about the change my username. Thanks a lot.", "expected": "account"}
+{"id": "s-185", "text": "Good morning, Could you look into the sign in? Please advise.", "expected": "account"}
+{"id": "s-186", "text": "Good morning, Could you look into the office hours? Please get back to me soon.", "expected": "other"}
+{"id": "s-187", "text": "Hello, Quick note: great product since yesterday. Thanks a lot.", "expected": "other"}
+{"id": "s-188", "text": "Good morning, I have a question about the won't load. Cheers.", "expected": "bug"}
+{"id": "s-189", "text": "Good morning, I have a question about the payment failed. Please get back to me soon.", "expected": "billing"}
+{"id": "s-190", "text": "Good morning, I have a question about the great product. Thank you!", "expected": "other"}
+{"id": "s-191", "text": "Hey there, Quick note: app crashes since yesterday. Please advise.", "expected": "bug"}
+{"id": "s-192", "text": "Good morning, Writing about payment failed. Cheers.", "expected": "billing"}
+{"id": "s-193", "text": "Good morning, Could you look into the charged twice? Please get back to me soon.", "expected": "billing"}
+{"id": "s-194", "text": "Hey there, Could you look into the partnership? Cheers.", "expected": "other"}
+{"id": "s-195", "text": "Good morning, I have a question about the can't log in. Thank you!", "expected": "account"}
+{"id": "s-196", "text": "Hi team, I have a question about the sign in. Thanks a lot.", "expected": "account"}
+{"id": "s-197", "text": "Good morning, Quick note: page freezes since yesterday. Please help.", "expected": "bug"}
+{"id": "s-198", "text": "Good morning, Quick note: great product since yesterday. Please help.", "expected": "other"}
+{"id": "s-199", "text": "Hey there, I have a question about the sign in. Thank you!", "expected": "account"}
+{"id": "s-200", "text": "Hi team, I have a question about the charged twice. Thank you!", "expected": "billing"}
+{"id": "s-201", "text": "Hi team, Writing about office hours. Please advise.", "expected": "other"}
+{"id": "s-202", "text": "Hey there, Quick note: charged twice since yesterday. Thanks a lot.", "expected": "billing"}
+{"id": "s-203", "text": "Good morning, Writing about partnership. Please help.", "expected": "other"}
+{"id": "s-204", "text": "Hey there, Quick note: charged twice since yesterday. Thanks a lot.", "expected": "billing"}
+{"id": "s-205", "text": "Hello, Quick note: refund since yesterday. Please get back to me soon.", "expected": "billing"}
+{"id": "s-206", "text": "Hello, Writing about partnership. Please get back to me soon.", "expected": "other"}
+{"id": "s-207", "text": "Hello, I have a question about the payment failed. Thank you!", "expected": "billing"}
+{"id": "s-208", "text": "Hello, Quick note: won't load since yesterday. Please advise.", "expected": "bug"}
+{"id": "s-209", "text": "Hi team, Quick note: pricing for teams since yesterday. Cheers.", "expected": "other"}
+{"id": "s-210", "text": "Hi team, I have a question about the payment failed. Cheers.", "expected": "billing"}
+{"id": "s-211", "text": "Hello, Could you look into the payment failed? Please get back to me soon.", "expected": "billing"}
+{"id": "s-212", "text": "Hi team, Could you look into the reset my password? Thanks a lot.", "expected": "account"}
+{"id": "s-213", "text": "Hey there, Writing about change my username. Please help.", "expected": "account"}
+{"id": "s-214", "text": "Good morning, Quick note: can't log in since yesterday. Thank you!", "expected": "account"}
+{"id": "s-215", "text": "Hey there, Quick note: change my username since yesterday. Please get back to me soon.", "expected": "account"}
+{"id": "s-216", "text": "Hey there, Could you look into the reset my password? Please get back to me soon.", "expected": "account"}
+{"id": "s-217", "text": "Hi team, Writing about refund. Please advise.", "expected": "billing"}
+{"id": "s-218", "text": "Good morning, Quick note: error message since yesterday. Cheers.", "expected": "bug"}
+{"id": "s-219", "text": "Good morning, I have a question about the app crashes. Please advise.", "expected": "bug"}
+{"id": "s-220", "text": "Hey there, I have a question about the app crashes. Please advise.", "expected": "bug"}
+{"id": "s-221", "text": "Hi team, Could you look into the invoice? Thanks a lot.", "expected": "billing"}
+{"id": "s-222", "text": "Hey there, I have a question about the two-factor code. Cheers.", "expected": "account"}
+{"id": "s-223", "text": "Hey there, Quick note: payment failed since yesterday. Cheers.", "expected": "billing"}
+{"id": "s-224", "text": "Hey there, I have a question about the invoice. Thanks a lot.", "expected": "billing"}
+{"id": "s-225", "text": "Hi team, I have a question about the refund. Cheers.", "expected": "billing"}
+{"id": "s-226", "text": "Good morning, Could you look into the great product? Cheers.", "expected": "other"}
+{"id": "s-227", "text": "Hey there, I have a question about the app crashes. Cheers.", "expected": "bug"}
+{"id": "s-228", "text": "Hi team, I have a question about the can't log in. Thanks a lot.", "expected": "account"}
+{"id": "s-229", "text": "Hey there, Quick note: invoice since yesterday. Please advise.", "expected": "billing"}
+{"id": "s-230", "text": "Hey there, I have a question about the refund. Cheers.", "expected": "billing"}
+{"id": "s-231", "text": "Hello, Writing about feature idea. Thanks a lot.", "expected": "other"}
+{"id": "s-232", "text": "Good morning, Could you look into the pricing for teams? Please get back to me soon.", "expected": "other"}
+{"id": "s-233", "text": "Hi team, Quick note: change my username since yesterday. Please advise.", "expected": "account"}
+{"id": "s-234", "text": "Hello, Could you look into the office hours? Please get back to me soon.", "expected": "other"}
+{"id": "s-235", "text": "Hi team, Quick note: can't log in since yesterday. Cheers.", "expected": "account"}
+{"id": "s-236", "text": "Hey there, Quick note: two-factor code since yesterday. Please advise.", "expected": "account"}
+{"id": "s-237", "text": "Good morning, Writing about payment failed. Please help.", "expected": "billing"}
+{"id": "s-238", "text": "Hello, I have a question about the page freezes. Please help.", "expected": "bug"}
+{"id": "s-239", "text": "Hi team, I have a question about the partnership. Thanks a lot.", "expected": "other"}

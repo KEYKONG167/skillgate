@@ -1,0 +1,34 @@
+[project]
+name = "skillgate"
+version = "0.1.0"
+description = "A regression gate for skills that agents update themselves: practice prescreen, sealed exam with early stopping, tamper-evident ledger, and trust levels earned from evidence."
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.11"
+dependencies = []
+keywords = ["agents", "skills", "evaluation", "regression-testing", "llm", "self-improvement"]
+classifiers = [
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Operating System :: OS Independent",
+  "Topic :: Software Development :: Testing",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7"]
+
+[project.scripts]
+skillgate = "skillgate.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/KEYKONG167/skillgate"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

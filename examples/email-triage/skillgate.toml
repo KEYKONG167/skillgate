@@ -1,0 +1,13 @@
+# Gate for the email-triage skill. Run `skillgate` from this directory.
+run = "{python} run_case.py --skill {skill} --case {case}"
+timeout = 30
+jobs = 8
+
+[practice]
+cases = "cases/practice.jsonl"
+
+[sealed]
+# Kept next to the example so it runs out of the box. In real use, put sealed
+# cases where the agent that edits the skill cannot read them.
+cases = "sealed/cases.jsonl"
+budget = 10

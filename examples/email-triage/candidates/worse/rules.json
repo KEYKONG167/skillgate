@@ -1,0 +1,9 @@
+{
+  "rules": [
+    ["other", ["please", "thank"]],
+    ["billing", ["invoice", "refund"]],
+    ["bug", ["error", "crash"]],
+    ["account", ["password", "log in"]]
+  ],
+  "default": "other"
+}
